@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Welcome to AWS DevOps Deployment!" > /home/ubuntu/deploy.txt
+echo "Welcome to AWS DevOps Deployment. This is very awesome!" > /home/ubuntu/deploy.txt
